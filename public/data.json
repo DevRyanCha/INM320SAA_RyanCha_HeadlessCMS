@@ -1,0 +1,14 @@
+{
+    "stats": [
+      { "label": "Unresolved", "value": 60 },
+      { "label": "Overdue", "value": 16 },
+      { "label": "Open", "value": 43 },
+      { "label": "On hold", "value": 64 }
+    ],
+    "unresolvedTickets": [
+      { "label": "Waiting on Feature Request", "count": 4238 },
+      { "label": "Awaiting Customer Response", "count": 1005 },
+      { "label": "Awaiting Developer Fix", "count": 914 },
+      { "label": "Pending", "count": 281 }
+    ]
+  }

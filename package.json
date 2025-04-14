@@ -1,0 +1,17 @@
+{
+  "name": "bootstrapassignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server --baseDir=\"public\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "lite-server": "^2.6.1",
+    "sass": "^1.85.1"
+  }
+}
